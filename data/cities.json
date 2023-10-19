@@ -35,6 +35,102 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Ica",
+      "country": "Peru",
+      "emoji": "🇵🇪",
+      "date": "2023-10-19T16:05:00.398Z",
+      "notes": "Prueba1",
+      "position": {
+        "lat": "-14.068149153328536",
+        "lng": "-75.73013305664064"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-19T16:14:03.809Z",
+      "notes": "PRUEBA2",
+      "position": {
+        "lat": "40.01170749053241",
+        "lng": "0.017852783203125003"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-19T16:14:42.111Z",
+      "notes": "prueba3",
+      "position": {
+        "lat": "40.01459993852217",
+        "lng": "-0.012359619140625002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "La Clotte",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-19T16:15:41.843Z",
+      "notes": "lala",
+      "position": {
+        "lat": "45.120052841530544",
+        "lng": "-0.15930175781250003"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Draa el Mizan",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-10-19T16:22:31.009Z",
+      "notes": "lola",
+      "position": {
+        "lat": "36.58024660149866",
+        "lng": "3.8452148437500004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Koumbia",
+      "country": "Burkina Faso",
+      "emoji": "🇧🇫",
+      "date": "2023-10-19T16:23:24.650Z",
+      "notes": "lola2",
+      "position": {
+        "lat": "11.092165893502013",
+        "lng": "-3.6035156250000004"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Gourma Rharous",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2023-10-19T16:38:00.256Z",
+      "notes": "ff",
+      "position": {
+        "lat": "16.003575733881327",
+        "lng": "-1.9775390625000002"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Dioila",
+      "country": "Mali",
+      "emoji": "🇲🇱",
+      "date": "2023-10-19T16:39:20.832Z",
+      "notes": "",
+      "position": {
+        "lat": "12.726084296948196",
+        "lng": "-7.031250000000001"
+      },
+      "id": 98443205
     }
   ]
 }
