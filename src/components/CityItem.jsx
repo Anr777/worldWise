@@ -12,7 +12,7 @@ new Intl.DateTimeFormat("es", {
 
 export const CityItem = ({ city }) => {
   
-  const { currentCity } = useCities();
+  const { currentCity, deleteCity } = useCities();
 
   const { cityName, emoji, date, id, position : { lat, lng } } = city;
   console.log(lat, lng)
@@ -25,6 +25,12 @@ export const CityItem = ({ city }) => {
       <img src={`https://flagcdn.com/24x18/${countryCode}.png`} alt="flag" />
     );
   };
+
+  const handleClick = ( e ) => {
+    e.preventDefault();
+    console.log('TEST');
+    deleteCity(id);
+  }
 
 
   return (
@@ -40,7 +46,7 @@ export const CityItem = ({ city }) => {
         </h3>
         <time className={ styles.date }>{ formatDate(date) }</time>
         
-        <button className={ styles.deleteBtn }>
+        <button className={ styles.deleteBtn } onClick={handleClick}>
           &times;
         </button>
       </Link>

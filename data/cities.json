@@ -83,54 +83,6 @@
         "lng": "-0.15930175781250003"
       },
       "id": 98443201
-    },
-    {
-      "cityName": "Draa el Mizan",
-      "country": "Algeria",
-      "emoji": "🇩🇿",
-      "date": "2023-10-19T16:22:31.009Z",
-      "notes": "lola",
-      "position": {
-        "lat": "36.58024660149866",
-        "lng": "3.8452148437500004"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Koumbia",
-      "country": "Burkina Faso",
-      "emoji": "🇧🇫",
-      "date": "2023-10-19T16:23:24.650Z",
-      "notes": "lola2",
-      "position": {
-        "lat": "11.092165893502013",
-        "lng": "-3.6035156250000004"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Gourma Rharous",
-      "country": "Mali",
-      "emoji": "🇲🇱",
-      "date": "2023-10-19T16:38:00.256Z",
-      "notes": "ff",
-      "position": {
-        "lat": "16.003575733881327",
-        "lng": "-1.9775390625000002"
-      },
-      "id": 98443204
-    },
-    {
-      "cityName": "Dioila",
-      "country": "Mali",
-      "emoji": "🇲🇱",
-      "date": "2023-10-19T16:39:20.832Z",
-      "notes": "",
-      "position": {
-        "lat": "12.726084296948196",
-        "lng": "-7.031250000000001"
-      },
-      "id": 98443205
     }
   ]
 }
