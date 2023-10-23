@@ -37,7 +37,7 @@ const formatDate = (date) =>
 
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
 
   if ( isLoading ) return <Spinner />
 
